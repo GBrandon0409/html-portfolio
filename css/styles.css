@@ -96,7 +96,7 @@ span:hover{
 
 .bottom-cloud{
     position: absolute;
-    bottom: 400px;
+    top: 50px
     left: 600px;
 }
 
